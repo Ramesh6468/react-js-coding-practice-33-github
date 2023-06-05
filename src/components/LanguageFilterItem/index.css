@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.languageContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.button1 {
+  margin-right: 20px;
+  background-color: transparent;
+  border: 2px solid #0284c7;
+  color: #0284c7;
+  border-radius: 10px;
+}
+
+.button2 {
+  margin-right: 20px;
+  background-color: transparent;
+  border: 2px solid #0f172a;
+  color: #0f172a;
+  border-radius: 10px;
+}

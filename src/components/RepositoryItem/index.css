@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.resultContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f8ff;
+    border-radius: 20px;
+    padding: 50px;
+    margin: 20px;
+}
+.avatar {
+    height: 150px;
+    border-radius: 20px;
+}
+.heading {
+    color: #e73959;
+    font-weight: bold;
+}
+.starsContainer {
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    height: 50px;
+}
+.count {
+    color: #1e293b;
+}
+.indi {
+    color: #1e293b;
+}

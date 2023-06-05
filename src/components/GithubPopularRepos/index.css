@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.bgContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  color: #0f172a;
+  font-weight: bold;
+  font-family: Lobster;
+  font-size: 40px;
+}
+.itemContainer {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+.failureContainer {
+  display: flex;
+  flex-direction: column;
+}
+.image1 {
+  height: 100px;
+}
+.error {
+  color: #1e293b;
+  font-weight: bold;
+  font-family: roboto;
+}
+.statusContainer1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
